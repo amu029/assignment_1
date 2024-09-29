@@ -13,14 +13,14 @@ body {
     background-color: var(--background-color);
 }
 
-.navbar {
+nav {
     background-color: var(--navbar-background);
     text-align: center;
     overflow: hidden;
     padding: 10px 0;
 }
 
-.navbar a {
+nav a {
     display: inline-block;
     color: #ffffff;
     padding: 10px 20px;
@@ -318,8 +318,7 @@ body {
     padding: 5px;
     line-height: 1.5;
 }
-
-.footer {
+footer {
     background-color: var(--navbar-background);
     text-align: center;
     padding: 5px 0;
@@ -329,7 +328,7 @@ body {
     line-height: 40px;
 }
 
-.footer img {
+footer img {
     display: inline-block;
     padding: 5px 30px;
     width: 40px;
